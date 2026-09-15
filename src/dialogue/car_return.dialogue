@@ -1,5 +1,5 @@
 ~ start
-Car: Ready to head back and report the result?
+Car that return to manager office: Ready to head back and report the result?
 - Yeah
 	do GameManager.calculate_result()
 	Car: Ok, get in.
